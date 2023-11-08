@@ -2,7 +2,7 @@ body{
     border: 10px solid aquamarine;
     margin: 0;
     padding: 0;
-    background-image: url(backflower.jpg);
+    background-image: url(./backflower.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -47,8 +47,7 @@ body{
     border: 6px solid gray;
     border-radius: 50%;
     padding-top: 80px; 
-    /* background-color: rgb(15, 119, 119); */
-    background-color: teal;
+    background-color: rgb(15, 119, 119);
     text-align:center ;
     margin-left: 0px;
     margin-right: 500px; 
@@ -86,7 +85,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(starter.jpg);
+    background-image: url(./starter.jpg);
     background-size: contain;
 }
 #menu2{
@@ -99,7 +98,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(south\ indian.jpg);
+    background-image: url(./south\ indian.jpg);
 }
 #menu3{
     width: 250px;
@@ -111,7 +110,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(indian.jpg);
+    background-image: url(./indian.jpg);
 }
 #menu4{
     width: 250px;
@@ -123,7 +122,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(rice.jpg);
+    background-image: url(./rice.jpg);
 }
 #menu5{
     width: 250px;
@@ -135,7 +134,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(tandori2.jpg);
+    background-image: url(./tandori2.jpg);
     background-size: cover;
 }
 #menu6{
@@ -148,7 +147,7 @@ body{
     text-align: center;
     border-radius: 20px;
     margin: 0px 25px 50px ;
-    background-image: url(beverages.jpg);
+    background-image: url(./beverages.jpg);
     background-size: cover;
 
 }
