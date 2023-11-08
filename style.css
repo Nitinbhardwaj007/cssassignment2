@@ -2,7 +2,7 @@ body{
     border: 10px solid aquamarine;
     margin: 0;
     padding: 0;
-    background-image: url(./backflower.jpg);
+    background-image: url(../backflower.jpg);
     background-repeat: no-repeat;
     background-size: contain;
 }
